@@ -51,6 +51,10 @@ int main() {
 
             for(i=0; i< m*n;i++) {
                 src[i] = i;
+
+                // rand generated
+                // i = rand() % 10;
+
             }
 
 
